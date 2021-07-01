@@ -1,3 +1,4 @@
-for (i = 0; i < 10; i++) {
-    console.log(i + 1)
-}
+let and = "test"
+let bend = "ago"
+console.log(and + " " +
+    bend);
