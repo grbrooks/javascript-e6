@@ -1,4 +1,3 @@
-let and = "test"
-let bend = "ago"
-console.log(and + " " +
-    bend);
+const language = "English";
+console.log(language.includes("ng"))
+console.log(`I speak ${language==="English"}`)
